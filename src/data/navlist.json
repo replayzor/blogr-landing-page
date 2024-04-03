@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"heading": "Product",
+		"items": ["Overview", "Pricing", "Marketplace", "Features", "Integrations"]
+	},
+	{
+		"id": 2,
+		"heading": "Company",
+		"items": ["About", "Team", "Blog", "Careers"]
+	},
+	{
+		"id": 3,
+		"heading": "Connect",
+		"items": ["Contact", "Newsletter", "LinkedIn"]
+	}
+]
